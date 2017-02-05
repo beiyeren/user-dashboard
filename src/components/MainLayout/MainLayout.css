@@ -1,0 +1,19 @@
+.normal {
+}
+
+.logo {
+  height: 64px;
+  width: 200px;
+  background: url("../../assets/logo.png") no-repeat center 0;
+  background-size: 100px 50px;
+  margin: 0px;
+  display: inline-block;
+}
+
+.anticon {
+  font-size: 16px;
+}
+
+.nav-text {
+  display: none;
+}
